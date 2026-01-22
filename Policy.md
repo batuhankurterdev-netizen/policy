@@ -1,9 +1,14 @@
-# policy
-policy
-This application does not collect, store, or share any personal data from users.
+Privacy Policy
 
-No personal information such as name, email address, location data, or device identifiers is accessed or stored by the app.
+This application displays third-party advertisements.
 
-The app works completely offline and does not communicate with external servers.
+The app may use the Advertising ID provided by the device for advertising and analytics purposes, in compliance with Google Play policies.
 
-If you have any questions regarding this privacy policy, you can contact us at: batuhankurter.dev@gmail.com
+No personally identifiable information such as name, email address, or precise location is collected by the developer.
+
+Advertising services (such as Google AdMob) may collect and process data in accordance with their own privacy policies.
+
+The application does not require user registration and does not collect personal data directly.
+
+If you have any questions regarding this privacy policy, you can contact us at:
+batuhankurter.dev@gmail.com
